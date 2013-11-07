@@ -6,6 +6,11 @@ An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
 ## Quick Start
 
+In Roche you will probably experience problems with setting up projects due to git repositories accessed via git@...
+Solution:
+```sh
+git config --global url."https://".insteadOf git://
+  ```
 Install Node.js and then:
 
 ```sh
