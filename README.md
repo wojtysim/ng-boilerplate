@@ -1,8 +1,5 @@
-# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://travis-ci.org/joshdmiller/ng-boilerplate.png?branch=master)](https://travis-ci.org/joshdmiller/ng-boilerplate)
+# [ngBoilerplateRoche]
 
-An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
-
-***
 
 ## Quick Start
 
@@ -14,7 +11,7 @@ git config --global url."https://".insteadOf git://
 Install Node.js and then:
 
 ```sh
-$ git clone git://github.com/joshdmiller/ng-boilerplate
+$ git clone https://github.com/wojtysim/ng-boilerplate/tree/roche-mod-feature
 $ cd ng-boilerplate
 $ sudo npm -g install grunt-cli karma bower
 $ npm install
@@ -22,7 +19,7 @@ $ bower install
 $ grunt watch
 ```
 
-Finally, open `file:///path/to/ng-boilerplate/build/index.html` in your browser.
+Finally, open `file:///path/to/ng-boilerplate-roche/build/index.html` in your browser.
 
 Happy hacking!
 
