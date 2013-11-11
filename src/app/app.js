@@ -2,7 +2,7 @@ angular.module( 'ngBoilerplate', [
   'templates-app',
   'templates-common',
   'ngBoilerplate.about',
-  'ui.state',
+  'ui.router.state',
   'ui.route'
 ])
 
